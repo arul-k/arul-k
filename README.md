@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arul
-- 👀 I’m interested in the Data Science Field
-- 🌱 I’m currently learning things related to data science
-- 💞️ I’m looking to collaborate on projects that are analysing the data, in the field of data science
+- 👀 I’m interested in the Data Analytics Field
+- 🌱 I’m currently learning things related to Data Analytics
+- 💞️ I’m looking to collaborate on projects that are analysing the data, in the field of Data Analytics
 - 📫 How to reach me arulinternship@gmail.com
 
 <!---
